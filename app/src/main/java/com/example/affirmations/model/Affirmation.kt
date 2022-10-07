@@ -21,5 +21,7 @@ import androidx.annotation.StringRes
  */
 data class Affirmation(
     @StringRes val stringResourceId: Int,
-    @DrawableRes val imageResourceId: Int
+    @DrawableRes val imageResourceId: Int,
+    @StringRes val stringResourceIdDes: Int,
+    @StringRes val synopsisDes: Int
 )

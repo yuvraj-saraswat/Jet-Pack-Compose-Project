@@ -1,18 +1,3 @@
-/*
- * Copyright (C) 2021 The Android Open Source Project
- *
- * Licensed under the Apache License, Version 2.0 (the "License");
- * you may not use this file except in compliance with the License.
- * You may obtain a copy of the License at
- *
- *      http://www.apache.org/licenses/LICENSE-2.0
- *
- * Unless required by applicable law or agreed to in writing, software
- * distributed under the License is distributed on an "AS IS" BASIS,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- * See the License for the specific language governing permissions and
- * limitations under the License.
- */
 package com.example.affirmations.data
 import com.example.affirmations.R
 import com.example.affirmations.model.Affirmation
@@ -22,15 +7,24 @@ import com.example.affirmations.model.Affirmation
 class Datasource() {
     fun loadAffirmations(): List<Affirmation> {
         return listOf<Affirmation>(
-            Affirmation(R.string.affirmation1, R.drawable.image1),
-            Affirmation(R.string.affirmation2, R.drawable.image2),
-            Affirmation(R.string.affirmation3, R.drawable.image3),
-            Affirmation(R.string.affirmation4, R.drawable.image4),
-            Affirmation(R.string.affirmation5, R.drawable.image5),
-            Affirmation(R.string.affirmation6, R.drawable.image6),
-            Affirmation(R.string.affirmation7, R.drawable.image7),
-            Affirmation(R.string.affirmation8, R.drawable.image8),
-            Affirmation(R.string.affirmation9, R.drawable.image9),
-            Affirmation(R.string.affirmation10, R.drawable.image10))
+            Affirmation(R.string.affirmation1, R.drawable.death_note, R.string.description1, R.string.synopsis1),
+            Affirmation(R.string.affirmation2, R.drawable.attack_on_titan, R.string.description2, R.string.synopsis2),
+            Affirmation(R.string.affirmation3, R.drawable.full, R.string.description3, R.string.synopsis3),
+            Affirmation(R.string.affirmation4, R.drawable.psycho, R.string.description4, R.string.synopsis4),
+            Affirmation(R.string.affirmation5, R.drawable.violet, R.string.description5, R.string.synopsis5),
+            Affirmation(R.string.affirmation6, R.drawable.jujutsu, R.string.description6, R.string.synopsis6),
+            Affirmation(R.string.affirmation7, R.drawable.demon, R.string.description7, R.string.synopsis7),
+            Affirmation(R.string.affirmation8, R.drawable.haik, R.string.description8, R.string.synopsis8),
+            Affirmation(R.string.affirmation9, R.drawable.vinland, R.string.description9, R.string.synopsis9),
+            Affirmation(R.string.affirmation10, R.drawable.run, R.string.description10, R.string.synopsis10),
+            Affirmation(R.string.affirmation11, R.drawable.black, R.string.description11, R.string.synopsis11),
+            Affirmation(R.string.affirmation12, R.drawable.hero, R.string.description12, R.string.synopsis12),
+            Affirmation(R.string.affirmation13, R.drawable.your, R.string.description13, R.string.synopsis13),
+            Affirmation(R.string.affirmation14, R.drawable.tokyo, R.string.description14, R.string.synopsis14),
+            Affirmation(R.string.affirmation15, R.drawable.naruto, R.string.description15, R.string.synopsis15),
+
+
+
+            )
     }
 }

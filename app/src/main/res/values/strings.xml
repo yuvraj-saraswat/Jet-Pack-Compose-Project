@@ -15,15 +15,70 @@
      limitations under the License.
 -->
 <resources>
-    <string name="app_name">Affirmations</string>
-    <string name="affirmation1">I am strong.</string>
-    <string name="affirmation2">I believe in myself.</string>
-    <string name="affirmation3">Each day is a new opportunity to grow and be a better version of myself.</string>
-    <string name="affirmation4">Every challenge in my life is an opportunity to learn from.</string>
-    <string name="affirmation5">I have so much to be grateful for.</string>
-    <string name="affirmation6">Good things are always coming into my life.</string>
-    <string name="affirmation7">New opportunities await me at every turn.</string>
-    <string name="affirmation8">I have the courage to follow my heart.</string>
-    <string name="affirmation9">Things will unfold at precisely the right time.</string>
-    <string name="affirmation10">I will be present in all the moments that this day brings.</string>
+    <string name="app_name">AnimeFlix</string>
+    <string name="affirmation1">Death Note</string>
+    <string name="description1">Genre: Horror, suspense, mystery</string>
+    <string name="synopsis1">A high school student named Light Yagami discovers a mysterious notebook that has the power to kill anyone whose name is written within its pages, and launches a secret crusade to rid the world of criminals.</string>
+
+    <string name="affirmation2">Attack on Titan</string>
+    <string name="description2">Genre: Drama, Dark fantasy, Adventure</string>
+    <string name="synopsis2">After his hometown is destroyed and his mother is killed, young Eren Jaeger vows to cleanse the earth of the giant humanoid Titans that have brought humanity to the brink of extinction.</string>
+
+    <string name="affirmation3">Fullmetal Alchemist</string>
+    <string name="description3">Genre: Adventure, Fantasy, SteamPunk</string>
+    <string name="synopsis3">Two brothers search for a Philosopher\'s Stone after an attempt to revive their deceased mother goes awry and leaves them in damaged physical forms.</string>
+
+    <string name="affirmation4">Psycho-Pass</string>
+    <string name="description4">Genre: Thriller, Action, Crime</string>
+    <string name="synopsis4">Believing in humanity and order, policewoman Akane Tsunemori obeys the ruling, computerized, precognitive Sibyl System. But when she faces a criminal mastermind who can elude this perfect system, she questions both Sibyl and herself.</string>
+
+    <string name="affirmation5">Violet Evergarden</string>
+    <string name="description5">Genre: Fanstasy, War, Coming-of-age</string>
+    <string name="synopsis5">In the aftermath of a great war, Violet Evergarden, a young female ex-soldier, gets a job at a writers\' agency and goes on assignments to create letters that can connect people.</string>
+
+    <string name="affirmation6">Jujutsu Kaisen</string>
+    <string name="description6">Genre: Horror, Super-Natural, Martial Arts</string>
+    <string name="synopsis6">A boy swallows a cursed talisman - the finger of a demon - and becomes cursed himself. He enters a shaman\'s school to be able to locate the demon\'s other body parts and thus exorcise himself.</string>
+
+    <string name="affirmation7">Demon Slayer</string>
+    <string name="description7">Genre: Fantasy, Action, Adventure</string>
+    <string name="synopsis7">A family is attacked by demons and only two members survive - Tanjiro and his sister Nezuko, who is turning into a demon slowly. Tanjiro sets out to become a demon slayer to avenge his family and cure his sister.</string>
+
+    <string name="affirmation8">Haikyuu</string>
+    <string name="description8">Genre: Sports, Drama, High-School</string>
+    <string name="synopsis8">Determined to be like the volleyball championship\'s star player nicknamed "the small giant", Shoyo joins his school\'s volleyball club.</string>
+
+    <string name="affirmation9">Vinland Saga</string>
+    <string name="description9">Genre: Historical, Revenge, Adventure</string>
+    <string name="synopsis9">Thorfinn pursues a journey with his father\'s killer in order to take revenge and end his life in a duel as an honorable warrior and pay his father a homage.</string>
+
+    <string name="affirmation10">Run with wind</string>
+    <string name="description10">Genre: Sports, Teen, Drama</string>
+    <string name="synopsis10">A retired running prodigy finds his competitive spirit rekindled when he moves in with an encouraging coach who cobbles together a rag-tag bunch of novice runners.</string>
+
+    <string name="affirmation11">Black Clover</string>
+    <string name="description11">Genre: Fantasy, Adventure, Comedy </string>
+    <string name="synopsis11">Asta and Yuno were abandoned together at the same church and have been inseparable since. As children, they promised that they would compete against each other to see who would become the next Emperor Magus.</string>
+
+    <string name="affirmation12">My Hero Academia</string>
+    <string name="description12">Genre: Super Hero, Comedy-Drama, Sc-Fi</string>
+    <string name="synopsis12">A superhero-loving boy without any powers is determined to enroll in a prestigious hero academy and learn what it really means to be a hero.</string>
+
+    <string name="affirmation13">Your Name</string>
+    <string name="description13">Genre: Romance, Fantasy, Drama</string>
+    <string name="synopsis13">Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?</string>
+
+    <string name="affirmation14">Tokyo Ghoul</string>
+    <string name="description14">Genre: Dark Fantasy, Tragedy, Horror</string>
+    <string name="synopsis14">A Tokyo college student is attacked by a ghoul, a superpowered human who feeds on human flesh. He survives, but has become part ghoul and becomes a fugitive on the run.</string>
+
+    <string name="affirmation15">Naruto</string>
+    <string name="description15">Genre: Adventure, Martial Arts, Comedy</string>
+    <string name="synopsis15">Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village\'s leader and strongest ninja.</string>
+
+
+
+    <string name="expand_description">click to expand</string>
+
+
 </resources>
