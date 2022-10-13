@@ -1,26 +1,6 @@
-Affirmations App - Solution Code
-================================
+Scrollable List App for JetPack Compose Camp(GDSC LNCT&S)
+=========================================================
 
-Solution code for the Android Basics in Compose: Affirmations app.
-
-
-Introduction
-------------
-The Affirmations app contains a scrollable list of 10 cards.
+This is a simple scrollable app which gives a list of varioius Animes and their synopsis.
 
 
-Pre-requisites
---------------
-* Familiarity with Lists in Kotlin 
-* Experience building layouts with Jetpack Compose 
-* Experience running apps on a device or emulator
-
-
-Getting Started
----------------
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
-
-All photos by Romain Guy. All photos are licensed under CC0 https://creativecommons.org/share-your-work/public-domain/cc0/
